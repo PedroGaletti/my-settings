@@ -1,0 +1,7 @@
+dbaeumer.vscode-eslint
+eamodio.gitlens
+golang.go
+PKief.material-icon-theme
+esbenp.prettier-vscode
+shadowblood.tailwind-moon
+bradlc.vscode-tailwindcss

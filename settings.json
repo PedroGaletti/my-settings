@@ -1,0 +1,43 @@
+{
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": false,
+  "workbench.colorCustomizations": {},
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Tailwind Moon Gray",
+  "editor.renderWhitespace": "none",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.suggest.autoImports": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideTabs": true,
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.zoomLevel": -1,
+  "files.exclude": { "**/.git": false },
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.quoteProps": "consistent",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.printWidth": 110,
+  "prettier.semi": false,
+  "prettier.useTabs": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

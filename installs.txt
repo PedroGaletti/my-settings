@@ -1,0 +1,16 @@
+postman
+vscode
+dbeaver
+xcode
+react-native
+golang
+docker
+nodejs
+vim
+zsh
+mysql@5.7
+python
+yarn
+mongodbcompass
+redis
+spectable (macos)

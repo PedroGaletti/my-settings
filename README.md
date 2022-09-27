@@ -14,7 +14,7 @@
 ## Programs (Macos, Linux, Windows)
 
 - [Postman](https://www.postman.com/downloads) - API platform for building and using APIs
-- [VSCode](https://code.visualstudio.com) - A code editor redefined and optimized for building and debugging modern web and cloud applications
+- [VSCode](https://code.visualstudio.com) - A code editor redefined and optimized for building and debugging modern web
 - [Dbeaver](https://dbeaver.io/download) - DBeaver is free and open source universal database tool for developers
 - [Docker](https://docs.docker.com/desktop) - Accelerate how you build, share, and run modern applications
 - [MongoDbCompass](https://www.mongodb.com/products/compass) - Compass is an interactive tool for querying your MongoDB data

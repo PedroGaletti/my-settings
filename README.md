@@ -1,4 +1,4 @@
-# Galetti's dotfiles
+# Galetti's config
 
 **Warning**: These are my settings. I recommend that you test and if you don't like it, try to make your settings!
 

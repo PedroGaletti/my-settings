@@ -6,11 +6,11 @@
   "workbench.activityBar.visible": false,
   "workbench.colorCustomizations": {},
   "workbench.startupEditor": "newUntitledFile",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Tailwind Moon Gray",
+  "workbench.colorTheme": "SynthWave '84",
   "editor.renderWhitespace": "none",
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
+  "editor.fontFamily": "Fira Code",
   "editor.detectIndentation": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
@@ -26,7 +26,6 @@
   "diffEditor.ignoreTrimWhitespace": false,
   "eslint.validate": ["javascript", "javascriptreact"],
   "security.workspace.trust.untrustedFiles": "open",
-  "window.zoomLevel": -1,
   "files.exclude": { "**/.git": false },
   "prettier.singleQuote": true,
   "prettier.jsxSingleQuote": true,
@@ -39,5 +38,23 @@
   "prettier.useTabs": true,
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": -1
 }

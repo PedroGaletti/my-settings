@@ -19,6 +19,7 @@
 - [Docker](https://docs.docker.com/desktop) - Accelerate how you build, share, and run modern applications
 - [MongoDbCompass](https://www.mongodb.com/products/compass) - Compass is an interactive tool for querying your MongoDB data
 - [Redis](https://redis.io/download) - In-memory data store, cache, streamin engine and message broker
+- [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on Android
 
 ## Windows particular configs
 

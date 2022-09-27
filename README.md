@@ -10,6 +10,7 @@
 - Languages
 - VSCode setup
 - Terminal setup
+- Libs
 
 ## Programs (Macos, Linux, Windows)
 
@@ -69,3 +70,7 @@
 - [Vim](https://github.com/neovim/nvim-lspconfig) - Vim is lightweight package and its installation is really simple
 - [Zsh](https://ohmyz.sh) - Framework for managing your Zsh configuration
 - [Homebrew](https://brew.sh) - Package Manager
+
+## Libs
+
+- [Http Server](https://www.npmjs.com/package/http-server) - Http server is a simple, zero-configuration command-line static HTTP server

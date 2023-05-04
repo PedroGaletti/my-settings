@@ -57,9 +57,14 @@
 
 **Settings**:
 
-- [Settings](https://github.com/PedroGaletti/os-configs-vscode/blob/main/vscode_settings.json) - My VSCode settings
+- [MacOS Settings](https://github.com/PedroGaletti/os-configs-vscode/blob/main/macos/settings.json) - My MacOS settings
+- [Windows Settings](https://github.com/PedroGaletti/os-configs-vscode/blob/main/windows/settings.json) - My Windows settings
 - [MacOS Keybindings](https://github.com/PedroGaletti/os-configs-vscode/blob/main/macos/keybindings.json) - My MacOS keybindings
 - [Windows Keybindings](https://github.com/PedroGaletti/os-configs-vscode/blob/main/windows/keybindings.json) - My Windows keybindings
+
+**CSS**:
+
+- [Main CSS](https://github.com/PedroGaletti/os-configs-vscode/blob/main/vscode/main.css) - My main css of visual studio code
 
 ## Terminal setup
 

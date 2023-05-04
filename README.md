@@ -18,9 +18,6 @@
 - [VSCode](https://code.visualstudio.com) - A code editor redefined and optimized for building and debugging modern web
 - [Dbeaver](https://dbeaver.io/download) - DBeaver is free and open source universal database tool for developers
 - [Docker](https://docs.docker.com/desktop) - Accelerate how you build, share, and run modern applications
-- [MongoDbCompass](https://www.mongodb.com/products/compass) - Compass is an interactive tool for querying your MongoDB data
-- [Redis](https://redis.io/download) - In-memory data store, cache, streamin engine and message broker
-- [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on Android
 
 ## Windows particular configs
 
@@ -42,22 +39,21 @@
 - [Python](https://www.python.org/downloads) - Python is a programming language that lets you work quickly and integrate systems more effectively
 - [Golang](https://go.dev/dl) - Build fast, reliable, and efficient software at scale
 - [NodeJS](https://nodejs.org/en/download) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
-- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install) - Fast, reliable, and secure dependency management
 - [React Native](https://reactnative.dev/docs/environment-setup) - Create native apps for Android and iOS using React
-- [Watchman](https://facebook.github.io/watchman/docs/install.html) - Watches files and records, or triggers actions, when they change
-- [MySQL@5.7](https://downloads.mysql.com/archives/community) - Database management system, which uses the SQL language as an interface
 
 ## VSCode setup
 
 **Extensions**:
-
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge Git within VS Code
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.go) - Rich Go language support for Visual Studio Code
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
-- [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) - A Synthwave-inspired colour theme to satisfy your neon dreams
-- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - Intelligent Tailwind CSS tooling for VS Code
+- [Synthwave x Fluoromachine & epic animations](https://marketplace.visualstudio.com/items?itemName=TheCodemonkey.synthwave-x-fluoromachine-epic-animations) - A Synthwave-inspired colour theme to satisfy your neon dreams
+- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) - Custom CSS and JS for Visual Studio Code
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Makes it easy to create, manage, and debug containerized applications
+- [Solidity](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Ethereum Solidity Language for Visual Studio Code
+- [Ethereum Remix](https://marketplace.visualstudio.com/items?itemName=RemixProject.ethereum-remix) - Ethereum Remix plugins in VSCode
 
 **Settings**:
 
@@ -74,3 +70,4 @@
 ## Libs
 
 - [Http Server](https://www.npmjs.com/package/http-server) - Http server is a simple, zero-configuration command-line static HTTP server
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install) - Fast, reliable, and secure dependency management

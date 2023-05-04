@@ -19,7 +19,7 @@
 - [Dbeaver](https://dbeaver.io/download) - DBeaver is free and open source universal database tool for developers
 - [Docker](https://docs.docker.com/desktop) - Accelerate how you build, share, and run modern applications
 
-## Windows particular configs
+## Windows particular install and configs
 
 **Scripts**:
 

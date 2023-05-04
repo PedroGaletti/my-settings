@@ -5,10 +5,10 @@
 ## Contents
 
 - Programs (Macos, Linux, Windows)
-- MacOS Installs
-- Packager managers
+- Windows particular install and configs
+- MacOS installs
 - Languages
-- VSCode setup
+- Visual Studio Code setup
 - Terminal setup
 - Libs
 
@@ -29,7 +29,7 @@
 
 - [AutoHotkey file](https://github.com/PedroGaletti/os-configs-vscode/blob/main/windows/myCustom.ahk) - My AutoHot key file for Windows
 
-## MacOS Installs
+## MacOS installs
 
 - [XCode](https://developer.apple.com/xcode) - Apple code editor (Swift)
 - [Spectable](https://www.spectacleapp.com) - Move and resize windows with ease
@@ -41,7 +41,7 @@
 - [NodeJS](https://nodejs.org/en/download) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine
 - [React Native](https://reactnative.dev/docs/environment-setup) - Create native apps for Android and iOS using React
 
-## VSCode setup
+## Visual Studio Code setup
 
 **Extensions**:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code

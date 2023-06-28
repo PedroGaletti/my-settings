@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Tourney:ital,wght@1,100&display=swap');
 
 /* hover flip specials */
-
 .mtk8,
 .mtk9,
 .mtk3,
@@ -9,9 +8,7 @@
 .mtk7,
 .mtk10 {
 	display: inline-block;
-
 	transition: 0.4s transform;
-	/* transform: rotateX(0); */
 }
 
 .mtk8:hover,
@@ -23,11 +20,9 @@
 	text-shadow: 2 2 15px;
 	transform: scale(1.2);
 }
-
 /* end of hover flip specials */
 
 /* tooltips */
-
 .monaco-editor .monaco-hover {
 	background-color: #262335;
 	display: block !important;
@@ -75,29 +70,7 @@
 		background-position: 100% 50%;
 	}
 }
-
 /* end of tooltips */
-
-/* tabs */
-
-/* .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.active::before {
-    
-    animation: neonline2 2s infinite;
-    background-size: 200% 200%!important;
-    width: 100%;
-    background-image: linear-gradient(to right, #fc28a8, #03edf9, #fc28a8, #03edf9, #fc28a8)!important;
-}
-
-@keyframes neonline2 {
-    0% {  
-       background-position: 0% 50%;
-    }
-    100% {
-        background-position: 100% 50%;
-    }    
-} */
-
-/* end of tabs*/
 
 .monaco-editor .selected-text {
 	background-color: #000000aa !important;
@@ -124,14 +97,6 @@
 	color: turquoise;
 	text-shadow: 0 0 1px yellow !important;
 }
-
-/* canvas.minimap-decorations-layer {
-    background-color: transparent !important;
-    background-image: linear-gradient(to bottom, #200933 75%, #3d0b43);
-    background-size: auto 100vh;
-    background-position: top;
-    background-repeat: no-repeat;
-} */
 
 .monaco-editor .minimap-shadow-visible {
 	box-shadow: none !important;
@@ -174,22 +139,17 @@
 	align-items: center;
 	align-content: center;
 	justify-content: center;
-
-	/* content: 'do epic shit...'; */
 	content: ' ';
 	font-weight: bold;
 	font-size: 5em;
 	font-family: 'Tourney', cursive;
-
 	color: #fc28a822;
 	position: absolute;
 	bottom: 40px;
 	width: 100%;
 	overflow-x: hidden;
 	height: 120px;
-
 	text-shadow: 0 0 30px #fc28a8;
-
 	animation: cnt 10s infinite linear;
 }
 
@@ -228,21 +188,10 @@
 
 .mtk8,
 .mtk9 {
-	/* color: #fd8902; */
 	color: #ffcc00;
 	text-shadow: 0 0 2px #100c0f, 0 0 3px #ffaa0099, 0 0 5px #ffaa0099, 0 0 10px #ffaa0099;
 	font-style: italic;
 }
-
-/* .mtk7 {
-  color: #8a2dc0;
-  text-shadow: 0 0 2px #000, 0 0 10px #8a2dc066, 0 0 5px #8a2dc066, 0 0 25px #8a2dc066;
-} */
-
-/* .mtk8 {
-  color: #72f1b8;
-  text-shadow: 0 0 2px #100c0f, 0 0 10px #257c55, 0 0 35px #212724;
-} */
 
 .mtk7,
 .mtk10 {
@@ -303,7 +252,6 @@
 	overflow: hidden;
 }
 
-/* .monaco-editor > .overflow-guard > .monaco-scrollable-element:before { */
 .monaco-editor:before,
 .editor-group-container:before {
 	background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 2px, #fff 2px, #fff 4px);
@@ -317,10 +265,6 @@
 	right: 0;
 	bottom: 0;
 }
-
-/* .monaco-editor .overflow-guard .margin {
-    background: #210A33;
-} */
 
 canvas {
 	z-index: 2;

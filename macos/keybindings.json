@@ -132,7 +132,7 @@
 		"command": "explorer.newFolder"
 	},
 	{
-		"key": "alt+cmd+n",
+		"key": "shift+cmd+n",
 		"command": "explorer.newFile"
 	},
 	{
